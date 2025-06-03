@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+header {
+    display: flex;
+    flex-direction: column;
+    padding: 20px 0;
+}
+
+nav a {
+    color: blue;
+    padding: 5px 10px;
+    margin: 0 5px;
+}
+
+h1 {
+   padding: 20px 10px;
+}
+
+main figure img {
+    width: 200px;
+    height: auto;
+    padding: 20px 10px
+}
+
+p {
+    padding: 20px 10px;
+}
+
+footer {
+    text-align: center;
+}

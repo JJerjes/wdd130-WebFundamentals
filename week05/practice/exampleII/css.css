@@ -1,0 +1,17 @@
+table {
+    border-collapse: separate;
+    border: 2px solid black;
+}
+
+thead > tr,
+tfoot > tr {
+    background-color: rgb(228, 240, 245);
+}
+
+th,
+td {
+    border: 1px solid gray;
+    padding: 5px;
+}
+
+
